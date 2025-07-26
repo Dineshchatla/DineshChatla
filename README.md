@@ -1,4 +1,4 @@
-# 👨‍💻 Dinesh Chatla — Code, Coffee & Curiosit ☕🚀
+# 👨‍💻 Dinesh Chatla — Code, Coffee & Curiosity ☕🚀
 
 🎓 Final-year CSE student | 💡 Building projects that solve real-world problems  
 🌐 Web Dev | ☁️ Java Full Stack | 🔐 Cybersecurity Enthusiast
