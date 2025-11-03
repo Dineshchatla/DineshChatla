@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Tech Stack
-- 💻 Languages: `Java`, `JavaScript`, `Python`
+- 💻 Languages: `Java`, `Python`
 - 🌐 Frontend: `HTML`, `CSS`
 - 🧱 Backend: `Spring Boot`
 - 🛠️ Tools: `Git`, `MySQL`, `VS Code`
